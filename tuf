@@ -1,0 +1,7 @@
+Apt update && upgrade
+Apt install git
+apt install curl
+Apt install openssh
+Git clone https://github.com/st42/termux-sudo/new/master
+Cd tuf
+Bash tuf.sh
